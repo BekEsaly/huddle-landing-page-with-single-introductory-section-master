@@ -98,7 +98,7 @@ main {
    border: 1px solid var(--White);
     border-radius: 50%;
     background-color: transparent;
-   padding: 0.5rem;
+   padding: 0.4rem;
 }
 .footer div:hover{
     background-color: var(--Soft-Magenta);
